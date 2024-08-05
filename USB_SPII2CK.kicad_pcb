@@ -984,15 +984,15 @@
 			(pintype "passive")
 			(uuid "d761e5bd-c2e0-4d09-acbd-69aa0caf1d9b")
 		)
-		(model "${KICAD8_3DMODEL_DIR}/Connector_USB.3dshapes/USB_Micro-B_Amphenol_10118193-0001LF_Horizontal.wrl"
+		(model "${KICAD_PERSONAL_LIBDIR}/3dmodels/USB-MicroB_Amphenol_1-118193.stpZ"
 			(offset
-				(xyz 0 0 0)
+				(xyz 2 3.15 -0.3)
 			)
 			(scale
 				(xyz 1 1 1)
 			)
 			(rotate
-				(xyz 0 0 0)
+				(xyz -90 0 0)
 			)
 		)
 	)
@@ -4962,6 +4962,7 @@
 			(uuid "65969d7f-ada7-4656-9de3-ff2f17cdc5ad")
 		)
 		(model "${KICAD8_3DMODEL_DIR}/Connector_PinHeader_1.27mm.3dshapes/PinHeader_2x08_P1.27mm_Vertical.wrl"
+			(hide yes)
 			(offset
 				(xyz 0 0 0)
 			)
@@ -4970,6 +4971,17 @@
 			)
 			(rotate
 				(xyz 0 0 0)
+			)
+		)
+		(model "${KICAD_PERSONAL_LIBDIR}/3dmodels/Header_16_50mil_Box.stpZ"
+			(offset
+				(xyz 0.65 -4.45 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -90 0 90)
 			)
 		)
 	)
