@@ -28,7 +28,7 @@ J1,Conn_02x05_Odd_Even,IDC-Header_2x05_P2.54mm_Vertical,160.77,-97.72,0.0,top
 J4,USB_B_Micro,USB_Micro-B_Amphenol_10118193-0001LF_Horizontal,125.4,-97.7,-90.0,top
 J6,Conn_02x08_Odd_Even,PinHeader_2x08_P1.27mm_Vertical,169.465,-97.965,0.0,top
 R1,0,R_0402_1005Metric_Pad0.72x0.64mm_HandSolder,138.3025,-88.0,0.0,top
-R10,10k,R_0402_1005Metric_Pad0.72x0.64mm_HandSolder,169.3975,-90.5,0.0,top
+R10,10k,R_0402_1005Metric_Pad0.72x0.64mm_HandSolder,152.8025,-86.2,0.0,top
 R11,2.15k,R_0402_1005Metric_Pad0.72x0.64mm_HandSolder,148.4,-96.7,180.0,top
 R2,10k,R_0402_1005Metric_Pad0.72x0.64mm_HandSolder,129.9025,-94.0,0.0,top
 R3,5.11k,R_0402_1005Metric_Pad0.72x0.64mm_HandSolder,154.9,-109.2025,90.0,top
@@ -38,7 +38,7 @@ R6,10k,R_0402_1005Metric_Pad0.72x0.64mm_HandSolder,135.5975,-109.9,0.0,top
 R7,10k,R_0402_1005Metric_Pad0.72x0.64mm_HandSolder,144.0975,-94.4,0.0,bottom
 R8,10k,R_0402_1005Metric_Pad0.72x0.64mm_HandSolder,144.0975,-92.6,0.0,bottom
 R9,10k,R_0402_1005Metric_Pad0.72x0.64mm_HandSolder,144.0975,-90.5,0.0,bottom
-U1,LP2985-3.3,SOT-23-5,130.9375,-91.45,180.0,top
+U1,LP2985-3.3,SOT-23-5,130.9375,-91.45,270.0,top
 U2,FT2232HL,LQFP-64_10x10mm_P0.5mm,144.05,-105.625,270.0,top
 U3,AT93C46DN-SH-T,SOIC-8_3.9x4.9mm_P1.27mm,147.095,-91.975,0.0,top
 Y1,12.00 MHz,Crystal_SMD_SeikoEpson_FA238V-4Pin_3.2x2.5mm_HandSoldering,136.9,-94.25,90.0,top

@@ -9970,6 +9970,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C17282974"
+			(at 254 130.81 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "15"
 			(uuid "1870be73-1b1c-48f1-8c06-af544a132c03")
 		)

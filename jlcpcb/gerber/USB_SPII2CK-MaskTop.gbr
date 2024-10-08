@@ -1,12 +1,12 @@
-%TF.GenerationSoftware,KiCad,Pcbnew,8.0.3*%
-%TF.CreationDate,2024-07-22T14:40:56-07:00*%
+%TF.GenerationSoftware,KiCad,Pcbnew,8.0.5*%
+%TF.CreationDate,2024-10-07T14:28:25-07:00*%
 %TF.ProjectId,USB_SPII2CK,5553425f-5350-4494-9932-434b2e6b6963,rev?*%
 %TF.SameCoordinates,Original*%
 %TF.FileFunction,Soldermask,Top*%
 %TF.FilePolarity,Negative*%
 %FSLAX46Y46*%
 G04 Gerber Fmt 4.6, Leading zero omitted, Abs format (unit mm)*
-G04 Created by KiCad (PCBNEW 8.0.3) date 2024-07-22 14:40:56*
+G04 Created by KiCad (PCBNEW 8.0.5) date 2024-10-07 14:28:25*
 %MOMM*%
 %LPD*%
 G01*
@@ -149,8 +149,8 @@ X162040000Y-102800000D03*
 %TD*%
 D24*
 %TO.C,R10*%
-X168800000Y-90500000D03*
-X169995000Y-90500000D03*
+X152205000Y-86200000D03*
+X153400000Y-86200000D03*
 %TD*%
 D25*
 %TO.C,C4*%
